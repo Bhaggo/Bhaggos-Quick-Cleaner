@@ -20,3 +20,28 @@
 ---
 
 Coded in batch     |     MIT License with Additional Restrictions Copyright (c) 2024 Bhaggo
+
+---
+
+WARNING: REMOVES THESE PROGRAMS FROM YOUR PC IF YOU USE ANY:
+1. 3D Builder
+2. Bing
+3. Bing Finance
+4. Bing Sports
+5. Bing Weather
+6. Phone app
+7. Drawboard PDF
+8. Facebook
+9. Messaging app
+10. Microsoft Office Hub
+11. OneNote
+12. Skype
+13. Twitter
+14. Windows Alarms
+15. Feedback App
+16. Sound Recorder
+17. Zune
+18. Solitare Collection
+19. Sticky Notes
+
+    **You can reinstall all these apps through the microsoft app store but these apps get removed in order to debloat your PC**
