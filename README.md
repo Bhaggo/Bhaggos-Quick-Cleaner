@@ -2,7 +2,6 @@
 
 -*Make sure to backup your registry files and create a restore point on your desktop before using*-
 
-
 -clears all the cache built up on your computer (improves loading times but may result in some apps disappearing).
 
 -adds registry files to your computer to improve responsiveness, loading times and debloats your computer of unwanted useless software.
@@ -11,15 +10,23 @@
 
 -clears all DNS cache built up on your computer.
 
--does a hard clean of files and cache built up on your computer.
+-optimizes ram with registries
 
--does a hard clean of your browser cache and internet cache built up on your computer.
+-live working gamebooster (disables extra services for processes)
+
+-debloats discord
+
+-debloats spotify (by deleting language packs)
+
+-defrags and optimizes drives
 
 ----
-![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/17a7455f-155c-4bdf-adc2-06a43bd279e9)
+
+![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/fdc76448-92d5-4042-ab3b-8ae4a12be43d)
+
 ---
 
-Coded in batch     |     MIT License with Additional Restrictions Copyright (c) 2024 Bhaggo
+Coded in batch and C++    |     MIT License with Additional Restrictions Copyright (c) 2024 Bhaggo
 
 ---
 
@@ -45,8 +52,8 @@ Coded in batch     |     MIT License with Additional Restrictions Copyright (c) 
 19. Sticky Notes
 
     **You can reinstall all these apps through the microsoft app store but these apps get removed in order to debloat your PC**
+---
 
-# vvv WHAT OPTION 3 DOES vvv
 # Performance:
 
 * Enables hardware* accelerated GPU scheduling
@@ -96,6 +103,26 @@ Coded in batch     |     MIT License with Additional Restrictions Copyright (c) 
 * Disables meet now in taskbar
 * Disables feedback reminders
 
+# Debloat Discord
+* Deletes the language packs in discord
+* Installs OpenAsar
+
+# Debloat Spotify
+* shuts down spotify and deletes language packs
+
+# What the live game booster does
+* Starts and stops network share
+* Starts and stops scheduled tasks
+* Starts and stops windows update
+* Starts and stops sharing media to other media devices
+* Starts and stops proxy-auto discovery
+* Starts and stops printer support
+* Starts and stops aero glass effect
+* Starts and stops tablet input support
+* Starts and stops application compatibility cache
+* Starts and stops network neighborhood service
+* Starts and stops graphics scanner and other device service
+
 # Microsoft Office (if you have):
 * Disables telemetry
 * Disables logging to the Microsoft Office Agent
@@ -133,3 +160,13 @@ Coded in batch     |     MIT License with Additional Restrictions Copyright (c) 
 * Disable Windows Media Player diagnostics
 
 * Disables razer and ccleaner telemetry (if you have)
+
+---
+
+# vv I did not make the Discord button (shout out OpenAsar), they made everything for that button, please go support them vv
+https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/
+
+# vv Basically executes the same commands Toolwizs' Game Booster does, make sure you check out and support their software as well vv
+https://www.majorgeeks.com/files/details/toolwiz_gameboost.html https://www.majorgeeks.com/files/details/toolwiz_gameboost.html
+
+# Shoutout my brother for helping me make the wrapper, this is just as safe as the batch file, but closed source due to my brother and I spending nights working hard to make this.
