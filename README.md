@@ -62,12 +62,6 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Disables Game DVR
 * Optimizes memory usage
 * Clears DNS Cache
-* Disable HPET (High Precision Event Timer)
-* Sets mouse acceleration to off
-* Sets mouse sensitivity to default
-* Sets mouse smoothing to 0
-* Decreases keyboard input delay
-* Decreases mouse inputs delay
 * Disables and resets Advertising ID and info
 * Disables tranmission of typing information
 * Disable suggestions in the timeline
@@ -125,11 +119,23 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Disable Windows Media Player diagnostics
 * Disables razer and ccleaner telemetry (if you have)
 
-# Debloat Discord button
+# Lower latency ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/3feb0345-f26c-496b-b15f-17e5b492bf0c)
+
+* Disable HPET (High Precision Event Timer)
+* Sets mouse acceleration to off
+* Sets mouse sensitivity to default
+* Sets mouse smoothing to 0
+* Decreases keyboard input delay
+* Decreases mouse inputs delay
+
+
+# Debloat Discord button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/a8013521-d55b-4544-9b5b-b95f591d7138)
+
 * Deletes the language packs in discord
 * Installs OpenAsar
 
-# Debloat Spotify button
+# Debloat Spotify button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/1da32d57-7708-4231-b828-961cb6d2fd7e)
+
 * shuts down spotify and deletes language packs
 
 # Gamebooster button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/e8266f52-3467-4afd-a019-29c367babe10)
