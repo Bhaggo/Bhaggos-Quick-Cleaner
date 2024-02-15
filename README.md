@@ -54,7 +54,8 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
     **You can reinstall all these apps through the microsoft app store but these apps get removed in order to debloat your PC**
 ---
 
-# Debloat system and increase performance button
+# Debloat system and increase performance button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/2a660a41-dfe3-409a-b1de-ad9805f43d48)
+
 
 * Enables hardware* accelerated GPU scheduling
 * Automatically sets graphics mode for most popular video games to use the high performance option
@@ -131,7 +132,8 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 # Debloat Spotify button
 * shuts down spotify and deletes language packs
 
-# Gamebooster button
+# Gamebooster button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/e8266f52-3467-4afd-a019-29c367babe10)
+
 * Starts and stops network share
 * Starts and stops scheduled tasks
 * Starts and stops windows update
@@ -144,7 +146,8 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Starts and stops network neighborhood service
 * Starts and stops graphics scanner and other device service
 
-# Ram optimization button
+# Ram optimization button ![image](https://github.com/Bhaggo/Bhaggos-Quick-Cleaner/assets/60365231/6955dc2d-ade6-408f-abe9-0e41fcd3b6e9)
+
 
 * modifies the "SvcHostSplitThresholdInKB" registry, resulting in optimizing the performance of the Windows service host by controlling how services are managed in terms of memory usage and process splitting.
 * leads to more efficient resource utilization and potentially improved system stability.
