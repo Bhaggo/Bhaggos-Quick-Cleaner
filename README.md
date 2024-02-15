@@ -54,7 +54,7 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
     **You can reinstall all these apps through the microsoft app store but these apps get removed in order to debloat your PC**
 ---
 
-# Performance:
+# Debloat system and increase performance button
 
 * Enables hardware* accelerated GPU scheduling
 * Automatically sets graphics mode for most popular video games to use the high performance option
@@ -67,10 +67,6 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Sets mouse smoothing to 0
 * Decreases keyboard input delay
 * Decreases mouse inputs delay
-
-
-# Privacy:
-
 * Disables and resets Advertising ID and info
 * Disables tranmission of typing information
 * Disable suggestions in the timeline
@@ -102,15 +98,40 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Disable automatic windows updates
 * Disables meet now in taskbar
 * Disables feedback reminders
+* Disables telemetry
+* Disables logging to the Microsoft Office Agent
+* Disables upload of data to the Microsoft Office Agent
+* Disables cortana and input personalization for Cortana
+* Disables and deletes copilot if it's on the system
+* Disables the copilot button from taskbar
+* Disable online speech recognition
+* Disable web search from Cortana
+* Disable web results in search from Cortana
+* Disables sync of all settings
+* Disables sync of design settings
+* Disable sync of browser settings
+* Disable sync of passwords
+* Disable sync of language settings
+* Disable sync of accessibility settings
+* Disable sync of advanced windows settings
+* Disables occasionally showing app suggestions in the start menu
+* Disables windows search with bing
+* Disables people icon in taskbar
+* Disables meet now in task bar
+* Disables news and interests in task bar
+* Disables automatic installation of recommended window store apps
+* Disables tips, tricks, and suggestions
+* Disable Windows Media Player diagnostics
+* Disables razer and ccleaner telemetry (if you have)
 
-# Debloat Discord
+# Debloat Discord button
 * Deletes the language packs in discord
 * Installs OpenAsar
 
-# Debloat Spotify
+# Debloat Spotify button
 * shuts down spotify and deletes language packs
 
-# What the live game booster does
+# Gamebooster button
 * Starts and stops network share
 * Starts and stops scheduled tasks
 * Starts and stops windows update
@@ -123,43 +144,13 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 * Starts and stops network neighborhood service
 * Starts and stops graphics scanner and other device service
 
-# Microsoft Office (if you have):
-* Disables telemetry
-* Disables logging to the Microsoft Office Agent
-* Disables upload of data to the Microsoft Office Agent
+# Ram optimization button
 
-# Synchronization:
-
-* Disables sync of all settings
-* Disables sync of design settings
-* Disable sync of browser settings
-* Disable sync of passwords
-* Disable sync of language settings
-* Disable sync of accessibility settings
-* Disable sync of advanced windows settings
-
-# Cortana:
-
-* Disables cortana and input personalization for Cortana
-* Disables and deletes copilot if it's on the system
-* Disables the copilot button from taskbar
-* Disable online speech recognition
-* Disable web search from Cortana
-* Disable web results in search from Cortana
+* modifies the "SvcHostSplitThresholdInKB" registry, resulting in optimizing the performance of the Windows service host by controlling how services are managed in terms of memory usage and process splitting.
+* leads to more efficient resource utilization and potentially improved system stability.
 
 
-# Windows Explorer:
 
-* Disables occasionally showing app suggestions in the start menu
-* Disables windows search with bing
-* Disables people icon in taskbar
-* Disables meet now in task bar
-* Disables news and interests in task bar
-* Disables automatic installation of recommended window store apps
-* Disables tips, tricks, and suggestions
-* Disable Windows Media Player diagnostics
-
-* Disables razer and ccleaner telemetry (if you have)
 
 ---
 
