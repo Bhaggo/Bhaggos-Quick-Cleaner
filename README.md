@@ -50,6 +50,7 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 17. Zune
 18. Solitare Collection
 19. Sticky Notes
+20. Xbox Game Bar (keeps services)
 
     **You can reinstall all these apps through the microsoft app store but these apps get removed in order to debloat your PC**
 ---
