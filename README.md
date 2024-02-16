@@ -167,6 +167,22 @@ Coded in batch and C++    |     MIT License with Additional Restrictions Copyrig
 # vv I did not make the Discord button (shout out OpenAsar), they made everything for that button, please go support them vv
 https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/ https://openasar.dev/
 
+---
+
+# DISCLAIMER: This repository and its contents are provided 'as-is,' without any express or implied warranty. In no event shall the maintainers, contributors, or owners of this repository be held liable for any damages arising from the use of this software.
+
+# Users are solely responsible for any risks associated with the use of this repository and its contents. This includes, but is not limited to, any loss of data, system malfunctions, or any other unforeseen issues that may arise.
+
+# The maintainers, contributors, or owners of this repository make no guarantees regarding the suitability, reliability, or accuracy of this software for any particular purpose. Users are responsible for ensuring that the software meets their specific requirements and use it at their own discretion.
+
+# This repository may contain bugs or errors, and the maintainers, contributors, or owners are not obligated to provide support or updates. Users are encouraged to report any issues they encounter, but there is no guarantee that these issues will be addressed in a timely manner or at all.
+
+# By using this repository, the user agrees to indemnify and hold harmless the maintainers, contributors, or owners from any claims, damages, or losses arising from its use.
+
+# By accessing, downloading, cloning, forking, or using any part of this repository, the user acknowledges and accepts the terms of this disclaimer.
+
+
+
 # vv Basically executes the same commands Toolwizs' Game Booster does, make sure you check out and support their software as well vv
 https://www.majorgeeks.com/files/details/toolwiz_gameboost.html https://www.majorgeeks.com/files/details/toolwiz_gameboost.html
 
